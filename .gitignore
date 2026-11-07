@@ -1,0 +1,11 @@
+# Compiled Object files
+*.o
+
+# Executables
+myshell
+*.exe
+a.out
+
+# IDEs
+.vscode/
+.idea/
