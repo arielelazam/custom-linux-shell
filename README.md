@@ -51,16 +51,12 @@ Run the compiled executable to start the shell:
 
 Once inside, you can run standard commands, pipe them, or test the built-in features:
 
-```bash
+````bash
 hello: ls -l | grep shell
 hello: echo "Test Error" 2> error.log
 hello: sleep 5 &
 hello: status
 hello: quit
-
-```
-
-````
 
 לאחר ששמרת את הקובץ `README.md` לצד `shell_2.c` בתיקייה, פתח את הטרמינל באותה תיקייה ובצע את השלבים הבאים כדי להעלות את הפרויקט לאוויר:
 
